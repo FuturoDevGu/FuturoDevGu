@@ -4,9 +4,7 @@ Este projeto implementa um sistema CRUD (Create, Read, Update, Delete) para gere
 ## Estrutura do Projeto
 O projeto está organizado da seguinte forma:
 funcionario-crud/
-├── pool.js
-├── models/
-│ └── funcionario.js
-├── routes/
-│ └── funcionarios.js
-└── index.js
+pool.js,
+models/ funcionario.js,
+routes/ funcionarios.js,
+index.js,
